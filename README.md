@@ -37,4 +37,4 @@ Here are some more examples of recent projects in my portfolio:
 
 **Motel:** https://github.com/Nick-Dalby/motel-lookbook
 
-**Worshop:** https://github.com/Nick-Dalby/workshop-store
+**Workshop:** https://github.com/Nick-Dalby/workshop-store
