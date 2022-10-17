@@ -12,6 +12,7 @@ Landing page / sign-up form built with React 🥬
 **Tech used:** HTML, CSS, JavaScript, React, [Yup](https://github.com/jquense/yup), [Formik](https://github.com/jaredpalmer/formik), [styled-components](https://github.com/styled-components/styled-components)
 
 Landing page / sign-up form built with React.
+
 Features:
 
 - form validation via Yup
